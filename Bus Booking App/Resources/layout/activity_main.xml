@@ -23,10 +23,10 @@
         android:text="Translate "
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/TranslateButton:" />
+        android:id="@+id/TranslateButton" />
     <TextView
-        android:text="Text"
+        android:text="TextView "
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/TranslatedPhoneword" />
 </LinearLayout>
