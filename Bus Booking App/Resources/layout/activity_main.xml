@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/TranslatedPhoneword" />
     <Button
-        android:text="@string/translationHistory"
+        android:text="Translation History"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TranslationHistoryButton"
