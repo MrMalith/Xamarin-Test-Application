@@ -251,7 +251,6 @@ D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\app_
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\android\bin\classes.dex
-D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_CompileToDalvik.stamp
@@ -261,3 +260,4 @@ D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stam
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\University\Final project\Mobile-Application\Bus Booking App\obj\Debug\90\android\src\crc64a0be4f42cc638ad8\TranslationHistoryActivity.java
