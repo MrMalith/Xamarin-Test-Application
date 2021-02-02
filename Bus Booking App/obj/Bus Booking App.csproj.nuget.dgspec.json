@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Final project\\Mobile-Application\\Bus Booking App\\Bus Booking App.csproj": {}
+    "D:\\Xamarin\\Test-Application\\Bus Booking App\\Bus Booking App.csproj": {}
   },
   "projects": {
-    "D:\\University\\Final project\\Mobile-Application\\Bus Booking App\\Bus Booking App.csproj": {
+    "D:\\Xamarin\\Test-Application\\Bus Booking App\\Bus Booking App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Final project\\Mobile-Application\\Bus Booking App\\Bus Booking App.csproj",
+        "projectUniqueName": "D:\\Xamarin\\Test-Application\\Bus Booking App\\Bus Booking App.csproj",
         "projectName": "Bus Booking App",
-        "projectPath": "D:\\University\\Final project\\Mobile-Application\\Bus Booking App\\Bus Booking App.csproj",
+        "projectPath": "D:\\Xamarin\\Test-Application\\Bus Booking App\\Bus Booking App.csproj",
         "packagesPath": "C:\\Users\\Malith\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Final project\\Mobile-Application\\Bus Booking App\\obj\\",
+        "outputPath": "D:\\Xamarin\\Test-Application\\Bus Booking App\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
